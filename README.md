@@ -12,4 +12,6 @@ När programmet startar får användaren välja en valuta och en summa som ska o
 
 Utmnaningar:
 
+test
+
 
