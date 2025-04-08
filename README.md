@@ -14,7 +14,7 @@ Programmet läser valutakurser från en textfil och sparar dem i en array och va
 
 Hur används programmet:
 
-När programmet startar får användaren välja en valuta och en summa som de vill omvandla till. Programmet sparar dessa val och skriver ut användarens summa och den resulterande omvandlade summan.
+När programmet startar får användaren välja en valuta utefter en meny med olika valutor och skriva ett antal som de vill omvandla till. Programmet sparar sen dessa val och skriver ut användarens summa och den resulterande omvandlade summan.
 
 Exempel på körning:
 
