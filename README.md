@@ -17,9 +17,8 @@ Hur används programmet:
 När programmet startar får användaren välja en valuta och en summa som de vill omvandla till. Programmet sparar dessa val och skriver ut användarens summa och den resulterande omvandlade summan.
 
 Exempel på körning:
+
 ![Skärmbild 2025-04-08 145014](https://github.com/user-attachments/assets/9b43d713-9583-475f-9422-17f4def978c7)
-
-
 
 Utmnaningar:
 
