@@ -2,11 +2,11 @@ Valutaomvandling
 
 Sammanfatting:
 
-Programmet är en enkel valutaomvandlare som konverterar ett antal (SEK) till an av de andra valutorna: USD, EUR, GBP eller THB. Användaren anger ett antal (SEK) samt väljar de vilken valuta de vill konvertera till. Och programmet beräknar reslutatet utefter vilken valutakurser som togs från en textfil.
+Programmet är en enkel valutaomvandlare som konverterar ett antal (SEK) till en annan vald valuta, valutorna: USD, EUR, GBP eller THB. Användaren anger ett antal (SEK) samt väljar de vilken valuta de vill konvertera till. Och programmet beräknar reslutatet utefter vilken valutakurser som togs från en textfil.
 
 Bakgrund:
 
-Ett vanligt behov är att man behöver räkna om ett belopp från svenska kronor till andra valutor, till exempel om man är på en resa eller handlar på nätet. Istället för att manuellt söka efter valutakurser kan detta programmet enkelt räkna summan automatiskt. Jag valde uppgiften eftersom det förekommer ofta i vardagen och det ger en bra utmaning för att öva på filhantering och arrays. Som är två områden inom programmering som jag känner mest osäker i.
+Ett vanligt behov är att man behöver konvertera en valuta till en annan, till exempel om man är på en resa eller handlar på nätet. Istället för att manuellt söka efter valutakurser kan detta programmet enkelt räkna summan automatiskt. Jag valde uppgiften eftersom det förekommer ofta i vardagen och det ger en bra utmaning för att öva på filhantering och arrays. Som är två områden inom programmering som jag känner mest osäker i.
 
 Nyckelaspekter:
 
