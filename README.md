@@ -1,6 +1,6 @@
 Valutaomvandling
 
-#Sammanfatting:
+# Sammanfatting:
 
 Programmet är en enkel valutaomvandlare som konverterar ett antal (SEK) till en annan vald valuta, valutorna: USD, EUR, GBP eller THB. Användaren anger ett antal (SEK) samt väljar de vilken valuta de vill konvertera till. Sen sparar programmet dessa värden och konvertar antalet som sen skirver den ut det resultatet utefter vilken valutakurser som togs från en textfil
 
