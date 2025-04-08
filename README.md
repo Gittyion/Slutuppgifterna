@@ -26,6 +26,6 @@ Programmet kontrollerar inte om textfilen innehåller en exakt rätt format elle
 
 Vad härnäst:
 
-I framtiden skulle programmet kunna förbättra felhantering för användarens inmatning och fil - innehåll och den skulle också kunna stöda flera valutor och dynamisk inläsning istället för en fast antal. En annan förbättrning skulle kunna vara att ha möjligheten att konvertera till SEK också och inte bara från.
+I framtiden skulle man kunna förbättra programmets felhantering för användarens inmatning och fil - innehåll och den skulle också kunna stöda flera valutor och dynamisk inläsning istället för en fast antal. En annan förbättrning skulle kunna vara att ha möjligheten att konvertera till SEK också och inte bara från.
 
 
